@@ -1,11 +1,11 @@
 {
   "alarmClock": {
-    "date": "2026-01-13T16:02:50+02:00",
+    "date": "2026-02-03T21:48:05+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SM7o076K2nC6y3bYyNvyDQczkanxt4eXbGx1K0ijHvo=",
+    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -29,12 +29,12 @@
       "repo": "https://github.com/lucyfire/dms-plugins",
       "requires_dms": ">=0.2.4",
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/alarmClock/alarms.png?raw=true",
-      "version": "0.3.4"
+      "version": "0.4.0"
     },
-    "path": "/nix/store/y4kc55va34b1ajm681rwanr7zvsxjgb1-dms-plugins",
-    "rev": "a3efd8147593fb21865ad9bd1183ea7cb0e1e701",
+    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
+    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
     "rootDir": "",
-    "sha256": "1yhyld42nxbcdjbqgdzim68k61qdybdwin3nrfx71nlapv9yikj8",
+    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
@@ -583,12 +583,12 @@
     "url": "https://github.com/jfchenier/dms-display-mirror"
   },
   "displaySettings": {
-    "date": "2026-01-13T16:02:50+02:00",
+    "date": "2026-02-03T21:48:05+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SM7o076K2nC6y3bYyNvyDQczkanxt4eXbGx1K0ijHvo=",
+    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -612,10 +612,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/displaySettings/screenshot.png?raw=true",
       "version": "0.1.1"
     },
-    "path": "/nix/store/y4kc55va34b1ajm681rwanr7zvsxjgb1-dms-plugins",
-    "rev": "a3efd8147593fb21865ad9bd1183ea7cb0e1e701",
+    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
+    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
     "rootDir": "",
-    "sha256": "1yhyld42nxbcdjbqgdzim68k61qdybdwin3nrfx71nlapv9yikj8",
+    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "dmsLenovoBatterySettings": {
@@ -799,12 +799,12 @@
     "url": "https://github.com/devnullvoid/dms-emoji-launcher"
   },
   "gitmojiLauncher": {
-    "date": "2026-01-13T16:02:50+02:00",
+    "date": "2026-02-03T21:48:05+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SM7o076K2nC6y3bYyNvyDQczkanxt4eXbGx1K0ijHvo=",
+    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -830,10 +830,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/gitmojiLauncher/screenshot.png?raw=true",
       "version": "1.2.0"
     },
-    "path": "/nix/store/y4kc55va34b1ajm681rwanr7zvsxjgb1-dms-plugins",
-    "rev": "a3efd8147593fb21865ad9bd1183ea7cb0e1e701",
+    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
+    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
     "rootDir": "",
-    "sha256": "1yhyld42nxbcdjbqgdzim68k61qdybdwin3nrfx71nlapv9yikj8",
+    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "grimblast": {
@@ -1557,12 +1557,12 @@
     "url": "https://github.com/max72bra/DankPluginBingWallpaper"
   },
   "wallpaperDiscovery": {
-    "date": "2026-01-13T16:02:50+02:00",
+    "date": "2026-02-03T21:48:05+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SM7o076K2nC6y3bYyNvyDQczkanxt4eXbGx1K0ijHvo=",
+    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -1588,10 +1588,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/wallpaperDiscovery/screenshot.png?raw=true",
       "version": "2.0.4"
     },
-    "path": "/nix/store/y4kc55va34b1ajm681rwanr7zvsxjgb1-dms-plugins",
-    "rev": "a3efd8147593fb21865ad9bd1183ea7cb0e1e701",
+    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
+    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
     "rootDir": "",
-    "sha256": "1yhyld42nxbcdjbqgdzim68k61qdybdwin3nrfx71nlapv9yikj8",
+    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "wallpaperShufflerPlugin": {
