@@ -985,12 +985,12 @@
     "url": "https://github.com/psyreactor/dms-kubernetes"
   },
   "linuxWallpaperEngine": {
-    "date": "2026-01-22T13:21:04+03:00",
+    "date": "2026-02-07T14:53:28+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-IvbSHcWWyDZbsgBQq+zCNorc4GIVAfrr4/L4GhI9BQU=",
+    "hash": "sha256-SlkJhFuIj2Hm48DeEexiwGyuw+Xpriuh/V9sxnaZmFE=",
     "leaveDotGit": false,
     "meta": {
       "author": "sgtaziz",
@@ -1015,10 +1015,10 @@
       "screenshot": "https://raw.githubusercontent.com/sgtaziz/dms-wallpaperengine/refs/heads/main/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/1y7007h2xjvyaxlmym2dd6d1dhk0bqyk-dms-wallpaperengine",
-    "rev": "52adee36fdc98a9b323f41ddd5ffff9e11c27c43",
+    "path": "/nix/store/mq1kj229gi39dksbcx4maprg8wllpb0l-dms-wallpaperengine",
+    "rev": "8b3cd460fd5a401e4b501e59054a1377a7df86b1",
     "rootDir": "",
-    "sha256": "01857l91my7jwgmzl08mcbhdr2inqbnanl00n9dkdj4nqlfx5xi2",
+    "sha256": "0lcqk5vccv2zznhjpbp9wp1swv60cbn13pn0wgk633w8bf20jnaa",
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "lyricsOnPanel": {
