@@ -1266,12 +1266,12 @@
     "url": "https://github.com/Daniel-42-z/dms-power-usage"
   },
   "prayerTimes": {
-    "date": "2026-02-09T15:31:25+07:00",
+    "date": "2026-02-19T07:19:08+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8PSVJmAWXekMMEUou4tHZvUQxfz6hzuOkXUYjBD1Rr0=",
+    "hash": "sha256-0DGJVEPyKX97DnBpE6cxFrnYPNCObM7Q4ISKixrf+M8=",
     "leaveDotGit": false,
     "meta": {
       "author": "muadz",
@@ -1293,10 +1293,10 @@
       "screenshot": "https://raw.githubusercontent.com/muadzmo/prayertimes/refs/heads/main/screenshot.png",
       "version": "0.0.1"
     },
-    "path": "/nix/store/6nx56r6f7k64hld21kh10pd09w7f80b3-prayertimes",
-    "rev": "5e77293ce6a30ce12a244fe6ed980222af3a1d00",
+    "path": "/nix/store/yxh43gqq19vx8hn981rqb10n8dcrsbza-prayertimes",
+    "rev": "ee406f1ab339a8204887e985357de72a7ab23fa8",
     "rootDir": "",
-    "sha256": "1ga6yl88q63mj673p1zszk2i1xb68y5vna25606fjp8nc0k9bx7h",
+    "sha256": "1kzqvwd8p2l4w38cwv4fs0ydif8n66ki6sbh1rxpyagj8da8jcfh",
     "url": "https://github.com/muadzmo/prayertimes"
   },
   "pulsarX3": {
@@ -1663,12 +1663,12 @@
     "url": "https://github.com/devnullvoid/dms-web-search"
   },
   "worldClock": {
-    "date": "2025-10-04T12:56:52+01:00",
+    "date": "2026-02-18T11:38:13Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SYGB+04NNGiuRVaQ7wEFcM+Cbo0raVDgaZ0fnxAbVpc=",
+    "hash": "sha256-T/AodSxxqISb/TNr8dfaZH/BGmimlxXUmlhlyUDVWa8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -1691,12 +1691,12 @@
       "repo": "https://github.com/rochacbruno/WorldClock",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/rochacbruno/WorldClock/raw/main/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/3a8w6k72sv92imvwwwgm19idxsq1jpv1-WorldClock",
-    "rev": "3e9b62ae2fe7550891a61436ebe8248a9724bd93",
+    "path": "/nix/store/gs18jz3fqd58cbpgrc8i75w7hwqi0lnb-WorldClock",
+    "rev": "65a80dbe414251afb907d04b0e85d02516860890",
     "rootDir": "",
-    "sha256": "15sn3c89y7wxd7h50s9bimp85kvh0l0yz42n8np6hd0d9vxq30a9",
+    "sha256": "1bsrsm0cjraqkba1b5x6d0dc2zv4vbbz2srkzndq9a3i5isjiw2g",
     "url": "https://github.com/rochacbruno/WorldClock"
   }
 }
