@@ -1266,12 +1266,12 @@
     "url": "https://github.com/Daniel-42-z/dms-power-usage"
   },
   "prayerTimes": {
-    "date": "2026-02-19T10:37:18+07:00",
+    "date": "2026-02-23T11:07:47+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-RYqRThCYY+Dlk+eV9Am2LZkjVPrkE0LWtHozL24+mgc=",
+    "hash": "sha256-GlFC+l36aWyWW3coM0BlUogm6gZNETBouRx5u9wvulw=",
     "leaveDotGit": false,
     "meta": {
       "author": "muadz",
@@ -1293,10 +1293,10 @@
       "screenshot": "https://raw.githubusercontent.com/muadzmo/prayertimes/refs/heads/main/screenshot.png",
       "version": "0.0.1"
     },
-    "path": "/nix/store/jiw7yyj550xyxlhw2f2kwdqc6b1dkbc8-prayertimes",
-    "rev": "c6dac9d6310580cecc9d2eb8b8e87100cceeb866",
+    "path": "/nix/store/an4rqcs6ynx6cqx58ayl8wsjwddxjrg7-prayertimes",
+    "rev": "660cd8e59c8e28b87403323967b02542bd4bf729",
     "rootDir": "",
-    "sha256": "01ws7rp2ycvsnkb444z4z9a2769dnq4z95g7jgjy0qwq217932j5",
+    "sha256": "0p5s5zfbny8wp5l304ad0vm2d22jcm036a3pbfb6qsgsbpx44l8s",
     "url": "https://github.com/muadzmo/prayertimes"
   },
   "pulsarX3": {
