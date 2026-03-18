@@ -1629,12 +1629,12 @@
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
   },
   "webSearch": {
-    "date": "2026-03-01T16:48:39-05:00",
+    "date": "2026-03-17T06:42:26-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-S1A50s7cKE0NuidC+x589wIxqGA6JW8GrCVEkCddMQs=",
+    "hash": "sha256-Z3/wSO8MUPDJs+NlCLIWnX3jMjY0GkcH8sqWvg/BnoE=",
     "leaveDotGit": false,
     "meta": {
       "author": "devnullvoid",
@@ -1654,12 +1654,12 @@
       "name": "Web Search",
       "repo": "https://github.com/devnullvoid/dms-web-search",
       "screenshot": "https://github.com/devnullvoid/dms-web-search/blob/main/screenshot.png?raw=true",
-      "version": "1.3.0"
+      "version": "1.4.0"
     },
-    "path": "/nix/store/kpp87mj7r8m2bf118cgqx0g9svdwzagl-dms-web-search",
-    "rev": "8ec42a2dff96b94cdd0d40b57c1acd815c15079a",
+    "path": "/nix/store/6hnz89cwh36qksp9dx229n1cq2gv99xk-dms-web-search",
+    "rev": "46ba7ec91f0fe3102d8ebb92a7ac943e7d6596f5",
     "rootDir": "",
-    "sha256": "02riblkr0i15mh36y99sc2l320ppghggnhi7p86lsa6wrv93jl2b",
+    "sha256": "10cyq47vx5nay83lf6il6qrf6zcx2sr0hrg3ng4z0l0cxx4g0zv7",
     "url": "https://github.com/devnullvoid/dms-web-search"
   },
   "worldClock": {
