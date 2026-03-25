@@ -765,12 +765,12 @@
     "url": "https://github.com/jonkristian/dms-easyeffects"
   },
   "emojiLauncher": {
-    "date": "2026-03-23T00:22:16-04:00",
+    "date": "2026-03-24T18:07:10-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uUfmGa7/rPx50XD8D0pqZtTjFcxl55+LvxQHiAGXQls=",
+    "hash": "sha256-ywCNI93OIuQVEGVcKCWxDvP+eU0O2RHuNx+1s3V2WeU=",
     "leaveDotGit": false,
     "meta": {
       "author": "devnullvoid",
@@ -790,12 +790,12 @@
       "name": "Emoji & Unicode Launcher",
       "repo": "https://github.com/devnullvoid/dms-emoji-launcher",
       "screenshot": "https://github.com/devnullvoid/dms-emoji-launcher/blob/main/screenshot.png?raw=true",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
-    "path": "/nix/store/jzsjv39rmiiyjfl4xz6z52p8frhpwq04-dms-emoji-launcher",
-    "rev": "ed5caa317b0bda8af1898e6c38199afa69f239cd",
+    "path": "/nix/store/sxm43i7pcr3adnsxcf0h138xlqpa4glz-dms-emoji-launcher",
+    "rev": "18974e94d048ecedfa1c0acea76e21584b05196d",
     "rootDir": "",
-    "sha256": "0ns2jw0qh1qlpy5rzrv5rhay7m36d950zz3hs5wzrb7zmqcycixr",
+    "sha256": "1rarfrsv7d8z6zp13n8f9mwzxwqfn4jjhp3520ay88nfvliqs06b",
     "url": "https://github.com/devnullvoid/dms-emoji-launcher"
   },
   "gitmojiLauncher": {
