@@ -1129,12 +1129,12 @@
     "url": "https://github.com/arrifat346afs/mediaPlayer"
   },
   "nepaliCalendar": {
-    "date": "2026-01-01T21:09:33+05:45",
+    "date": "2026-03-27T20:36:23+05:45",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ROzh66lSZiKXEH18qg+KW7bMEc0z66ystosUeSyOlfY=",
+    "hash": "sha256-6MpJs6uwiO/q3+MbUvhtseabeIp1L0jTeNL3GuGEjtI=",
     "leaveDotGit": false,
     "meta": {
       "author": "ac17dollars (Abhinav Chalise)",
@@ -1156,10 +1156,10 @@
       "screenshot": "https://raw.githubusercontent.com/AC17dollars/dms-nepali-calendar/main/assets/horizontal.png",
       "version": "1.1.0"
     },
-    "path": "/nix/store/9kaaibd00l9cdj6adf47bnja9vjk7h22-dms-nepali-calendar",
-    "rev": "6579f8c84eaa4a8ad782b196464a4d70c47d5984",
+    "path": "/nix/store/pk3wsqfka8bssp6xgmf1w61szsx5q90q-dms-nepali-calendar",
+    "rev": "bf119ea6aa7cdf01dd37226ffa486669643cde85",
     "rootDir": "",
-    "sha256": "1xlmiqn7j54bnsnarsrkrl8wrdjvi87slz3x22bj4rjjm7my3v24",
+    "sha256": "1llfhkhimxyjg39lhbvmi9w9prmidpw546z3vzmfz25hmfrlkjp8",
     "url": "https://github.com/AC17dollars/dms-nepali-calendar"
   },
   "niriWindows": {
