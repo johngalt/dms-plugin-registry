@@ -1407,12 +1407,12 @@
     "url": "https://github.com/ronmurphy/dms-contrib"
   },
   "stockManager": {
-    "date": "2026-02-10T19:10:53+08:00",
+    "date": "2026-04-03T18:04:06+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-eLUnlXestYRIuo7qf31NkSD4BIruE0z5SvTCGUscCrw=",
+    "hash": "sha256-GHbsnWFSoyBE4OVNwicpc5G6s4w+ja7KZl2m0o+B1jA=",
     "leaveDotGit": false,
     "meta": {
       "author": "LeeMeng",
@@ -1439,10 +1439,10 @@
       "screenshot": "https://github.com/leemeng0x61/stockManager/raw/main/screenshot/sc.png",
       "version": "1.2.2"
     },
-    "path": "/nix/store/r1b68l0qn324bah2fg29xirkl27g0n85-stockManager",
-    "rev": "3844d642f176b413ed0ba3794ea862f67534bcd8",
+    "path": "/nix/store/mgb738nsw36hbp9xsdr386841hpl8xjz-stockManager",
+    "rev": "cbba650f97540015ff19fb29be5eb1cf0c8bdd81",
     "rootDir": "",
-    "sha256": "1g0a3i5ikhpl9bwlq4zfi82gh84i9mypzslfp9489ddcfyajgdbq",
+    "sha256": "0c6nh67x59jxcv5ax39yijrvm4bk54kw4kg5w12218sjc6fyqxhq",
     "url": "https://github.com/leemeng0x61/stockManager"
   },
   "tailscale": {
