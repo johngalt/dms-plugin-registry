@@ -215,12 +215,12 @@
     "url": "https://github.com/devnullvoid/dms-command-runner"
   },
   "dankActions": {
-    "date": "2026-02-24T13:48:54-05:00",
+    "date": "2026-04-07T10:59:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/155wFIotV9xiZzX9XRGs3ANjBcLJwS4kNDDNO6WkF0=",
+    "hash": "sha256-s6zQvPoTaJYMA8A/vUEgQhTE/VhQJZwcGw1ET6bOYKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Avenge Media",
@@ -244,19 +244,19 @@
       "screenshot": "https://raw.githubusercontent.com/AvengeMedia/dms-plugin-registry/master/assets/dank-actions.png",
       "version": "1.0.5"
     },
-    "path": "/nix/store/l8p5gd5z8iwm4b38wclss2rg4ai4yz9s-dms-plugins",
-    "rev": "141841fc85e01494df6d217bd5a27c65da87256d",
+    "path": "/nix/store/1cr150kcr5fjfffglbyl07h90fmcha81-dms-plugins",
+    "rev": "a759ddfccb021ef7e6824685e7a1c3728170977e",
     "rootDir": "",
-    "sha256": "0pchjvp39hyhj2w089qb2y60sw5k8rsgbmwwi5qmzd98ab07jppz",
+    "sha256": "1a30rsk4yi0d3cf9q9ahb3yw8522410vsgy00c69cs0kzayd1b5k",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankBatteryAlerts": {
-    "date": "2026-02-24T13:48:54-05:00",
+    "date": "2026-04-07T10:59:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/155wFIotV9xiZzX9XRGs3ANjBcLJwS4kNDDNO6WkF0=",
+    "hash": "sha256-s6zQvPoTaJYMA8A/vUEgQhTE/VhQJZwcGw1ET6bOYKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Avenge Media",
@@ -281,19 +281,19 @@
       "screenshot": "https://raw.githubusercontent.com/AvengeMedia/dms-plugin-registry/master/assets/dank-batteryalerts.png",
       "version": "1.1.2"
     },
-    "path": "/nix/store/l8p5gd5z8iwm4b38wclss2rg4ai4yz9s-dms-plugins",
-    "rev": "141841fc85e01494df6d217bd5a27c65da87256d",
+    "path": "/nix/store/1cr150kcr5fjfffglbyl07h90fmcha81-dms-plugins",
+    "rev": "a759ddfccb021ef7e6824685e7a1c3728170977e",
     "rootDir": "",
-    "sha256": "0pchjvp39hyhj2w089qb2y60sw5k8rsgbmwwi5qmzd98ab07jppz",
+    "sha256": "1a30rsk4yi0d3cf9q9ahb3yw8522410vsgy00c69cs0kzayd1b5k",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankDesktopWeather": {
-    "date": "2026-02-24T13:48:54-05:00",
+    "date": "2026-04-07T10:59:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/155wFIotV9xiZzX9XRGs3ANjBcLJwS4kNDDNO6WkF0=",
+    "hash": "sha256-s6zQvPoTaJYMA8A/vUEgQhTE/VhQJZwcGw1ET6bOYKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Avenge Media",
@@ -318,19 +318,19 @@
       "screenshot": "https://raw.githubusercontent.com/AvengeMedia/dms-plugin-registry/master/assets/dank-desktop-weather.png",
       "version": "1.0.1"
     },
-    "path": "/nix/store/l8p5gd5z8iwm4b38wclss2rg4ai4yz9s-dms-plugins",
-    "rev": "141841fc85e01494df6d217bd5a27c65da87256d",
+    "path": "/nix/store/1cr150kcr5fjfffglbyl07h90fmcha81-dms-plugins",
+    "rev": "a759ddfccb021ef7e6824685e7a1c3728170977e",
     "rootDir": "",
-    "sha256": "0pchjvp39hyhj2w089qb2y60sw5k8rsgbmwwi5qmzd98ab07jppz",
+    "sha256": "1a30rsk4yi0d3cf9q9ahb3yw8522410vsgy00c69cs0kzayd1b5k",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankHooks": {
-    "date": "2026-02-24T13:48:54-05:00",
+    "date": "2026-04-07T10:59:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/155wFIotV9xiZzX9XRGs3ANjBcLJwS4kNDDNO6WkF0=",
+    "hash": "sha256-s6zQvPoTaJYMA8A/vUEgQhTE/VhQJZwcGw1ET6bOYKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Avenge Media",
@@ -354,19 +354,19 @@
       "screenshot": "https://raw.githubusercontent.com/AvengeMedia/dms-plugin-registry/master/assets/dank-hooks.png",
       "version": "1.0.8"
     },
-    "path": "/nix/store/l8p5gd5z8iwm4b38wclss2rg4ai4yz9s-dms-plugins",
-    "rev": "141841fc85e01494df6d217bd5a27c65da87256d",
+    "path": "/nix/store/1cr150kcr5fjfffglbyl07h90fmcha81-dms-plugins",
+    "rev": "a759ddfccb021ef7e6824685e7a1c3728170977e",
     "rootDir": "",
-    "sha256": "0pchjvp39hyhj2w089qb2y60sw5k8rsgbmwwi5qmzd98ab07jppz",
+    "sha256": "1a30rsk4yi0d3cf9q9ahb3yw8522410vsgy00c69cs0kzayd1b5k",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankKDEConnect": {
-    "date": "2026-02-24T13:48:54-05:00",
+    "date": "2026-04-07T10:59:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/155wFIotV9xiZzX9XRGs3ANjBcLJwS4kNDDNO6WkF0=",
+    "hash": "sha256-s6zQvPoTaJYMA8A/vUEgQhTE/VhQJZwcGw1ET6bOYKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Avenge Media",
@@ -394,19 +394,19 @@
       "screenshot": "https://raw.githubusercontent.com/AvengeMedia/dms-plugins/refs/heads/master/DankKDEConnect/screenshot.png",
       "version": "2.0.3"
     },
-    "path": "/nix/store/l8p5gd5z8iwm4b38wclss2rg4ai4yz9s-dms-plugins",
-    "rev": "141841fc85e01494df6d217bd5a27c65da87256d",
+    "path": "/nix/store/1cr150kcr5fjfffglbyl07h90fmcha81-dms-plugins",
+    "rev": "a759ddfccb021ef7e6824685e7a1c3728170977e",
     "rootDir": "",
-    "sha256": "0pchjvp39hyhj2w089qb2y60sw5k8rsgbmwwi5qmzd98ab07jppz",
+    "sha256": "1a30rsk4yi0d3cf9q9ahb3yw8522410vsgy00c69cs0kzayd1b5k",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankLauncherKeys": {
-    "date": "2026-02-24T13:48:54-05:00",
+    "date": "2026-04-07T10:59:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/155wFIotV9xiZzX9XRGs3ANjBcLJwS4kNDDNO6WkF0=",
+    "hash": "sha256-s6zQvPoTaJYMA8A/vUEgQhTE/VhQJZwcGw1ET6bOYKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Avenge Media",
@@ -431,19 +431,19 @@
       "screenshot": "https://raw.githubusercontent.com/AvengeMedia/dms-plugins/refs/heads/master/DankLauncherKeys/screenshot.png",
       "version": "1.0.4"
     },
-    "path": "/nix/store/l8p5gd5z8iwm4b38wclss2rg4ai4yz9s-dms-plugins",
-    "rev": "141841fc85e01494df6d217bd5a27c65da87256d",
+    "path": "/nix/store/1cr150kcr5fjfffglbyl07h90fmcha81-dms-plugins",
+    "rev": "a759ddfccb021ef7e6824685e7a1c3728170977e",
     "rootDir": "",
-    "sha256": "0pchjvp39hyhj2w089qb2y60sw5k8rsgbmwwi5qmzd98ab07jppz",
+    "sha256": "1a30rsk4yi0d3cf9q9ahb3yw8522410vsgy00c69cs0kzayd1b5k",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankPomodoroTimer": {
-    "date": "2026-02-24T13:48:54-05:00",
+    "date": "2026-04-07T10:59:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/155wFIotV9xiZzX9XRGs3ANjBcLJwS4kNDDNO6WkF0=",
+    "hash": "sha256-s6zQvPoTaJYMA8A/vUEgQhTE/VhQJZwcGw1ET6bOYKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Avenge Media",
@@ -467,10 +467,10 @@
       "screenshot": "https://raw.githubusercontent.com/AvengeMedia/dms-plugin-registry/master/assets/dank-pomodoro.png",
       "version": "1.1.5"
     },
-    "path": "/nix/store/l8p5gd5z8iwm4b38wclss2rg4ai4yz9s-dms-plugins",
-    "rev": "141841fc85e01494df6d217bd5a27c65da87256d",
+    "path": "/nix/store/1cr150kcr5fjfffglbyl07h90fmcha81-dms-plugins",
+    "rev": "a759ddfccb021ef7e6824685e7a1c3728170977e",
     "rootDir": "",
-    "sha256": "0pchjvp39hyhj2w089qb2y60sw5k8rsgbmwwi5qmzd98ab07jppz",
+    "sha256": "1a30rsk4yi0d3cf9q9ahb3yw8522410vsgy00c69cs0kzayd1b5k",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "desktopCommand": {
