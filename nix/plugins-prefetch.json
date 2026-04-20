@@ -1519,12 +1519,12 @@
     "url": "https://github.com/psyreactor/dms-voxtype"
   },
   "wallpaperBing": {
-    "date": "2026-04-09T08:15:20+02:00",
+    "date": "2026-04-19T18:23:07+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uFst8Gpbel0l9tk2zczBRf5Dz+0zeVD9bXe2dJFNcvQ=",
+    "hash": "sha256-j7bT4hjXzGfXscFFF3irHuFkOgcEx/3++8edsLD+nbA=",
     "leaveDotGit": false,
     "meta": {
       "author": "maxb",
@@ -1548,12 +1548,12 @@
       "name": "Wallpaper of the Day",
       "repo": "https://github.com/max72bra/DankPluginBingWallpaper",
       "screenshot": "https://raw.githubusercontent.com/max72bra/DankPluginBingWallpaper/refs/heads/main/screenshot.png",
-      "version": "1.4.3"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/azkfb9nxp7y75kknqmhda2z8sm3wpczl-DankPluginBingWallpaper",
-    "rev": "b17f1e513155b5a344a81b7c389fa19fa3550b35",
+    "path": "/nix/store/na7h56bpvxk61bahz1iqslaglh10i179-DankPluginBingWallpaper",
+    "rev": "963cb40d28710aa0d0b69b6399f1b8fb87a168c7",
     "rootDir": "",
-    "sha256": "1x3j9n8p9dkpdpym0y9kxp7l7zj5q76csdnryqjmsyjvdbq2snxq",
+    "sha256": "1c4xzsqb17f7zgzgviq40wx69q8ymdw1fif1n7bngk6p33id7dlg",
     "url": "https://github.com/max72bra/DankPluginBingWallpaper"
   },
   "wallpaperDiscovery": {
